@@ -1,0 +1,14 @@
+{
+  "name": "ledger",
+  "version": "0.1.0",
+  "description": "A self-hosted accounting workspace.",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node bin/start.js",
+    "dev": "node bin/start.js"
+  },
+  "license": "UNLICENSED"
+}
