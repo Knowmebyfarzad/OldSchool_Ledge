@@ -8,6 +8,11 @@ This is the **MVP build**. Invoices, budgets, a reports page, and Jalali
 (Persian calendar) CSV support are not in this version yet — see "What's
 not built yet" below.
 
+## Preview
+![home](Preview/home.png)
+![login](Preview/login.png)
+
+
 ## Requirements
 
 Node.js 24 or later. No packages or build step are required.
